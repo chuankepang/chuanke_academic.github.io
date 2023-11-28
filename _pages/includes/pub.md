@@ -4,7 +4,7 @@
 My full paper list can be found at my [<a href="https://scholar.google.com/citations?user=Mr7Dx6gAAAAJ&hl=zh-CN">Google Scholar</a>].
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Dexterous_manipulation.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Design and experiment of on-orbit assembly ground simulation robot</b><br>
