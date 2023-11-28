@@ -7,10 +7,10 @@ My full paper list can be found at my [<a href="https://scholar.google.com/citat
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model</b><br>
-<i>Arxiv, 2023</i><br>
-<b>Keyan Chen</b>, Chenyang Liu, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi<br>
-[<a href="https://arxiv.org/abs/2306.16269">Arxiv</a>] [<a href="https://github.com/KyanChen/RSPrompter">Github</a>] [<a href="https://kyanchen.github.io/RSPrompter/">Page</a>] [<a href="https://huggingface.co/spaces/KyanChen/RSPrompter">Demo</a>]<br>
+<b>Design and experiment of on-orbit assembly ground simulation robot</b><br>
+<i>The 5th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE 2022)</i><br>
+<b>Chuanke Pang</b>, and Rui Zhong<br>
+[<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2369/1/012071/meta">Page</a>][<a href="https://github.com/chuankepang/dual_arm_collaborative_robot">Github</a>]<br>
 <div style="text-align: justify">
 We consider designing an automated instance segmentation approach for remote sensing images based on the SAM foundation model, incorporating semantic category information with prompt learning. 
 </div>
