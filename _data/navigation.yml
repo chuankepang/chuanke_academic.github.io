@@ -8,16 +8,16 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-
+    
+  - title: "Research Experiences"
+    url: "/#-research-experiences"
+    
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Research Experiences"
-    url: "/#-research-experiences"
-    
 #  - title: "Invited Talks"
 #    url: "/#-invited-talks"
 #
