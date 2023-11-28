@@ -1,7 +1,7 @@
 
 # 📝 Publications
 
-My full paper list can be found at my [<a href="https://scholar.google.com/citations?user=5RF4ia8AAAAJ&hl=zh-CN">Google Scholar</a>].
+My full paper list can be found at my [<a href="https://scholar.google.com/citations?user=Mr7Dx6gAAAAJ&hl=zh-CN">Google Scholar</a>].
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
