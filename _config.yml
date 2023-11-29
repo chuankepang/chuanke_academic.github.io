@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-url: https://kychen.me
 # Site Settings
 title                    : "Chuanke Pang (庞传科)"
 description              : "Postgraduate Student, Beihang University"
