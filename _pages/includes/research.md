@@ -42,7 +42,7 @@ Sept. 2022 – Present<br>
 <b>Intelligent Autonomous Exploration System for Celestial Bodies</b><br>
 Oct. 2021 – Oct. 2022<br>
 <div style="text-align: start">
-<i>A method for extraterrestrial sampling and packing based on deep reinforcement learning.</i><br>
+<i>Method for extraterrestrial sampling and packing based on deep reinforcement learning.</i><br>
 🔹Proposed an adaptive grasping method based on deep reinforcement learning for non-cooperative targets<br>
 🔹Deployed the grasp pose detection algorithm (GPD library) based on three-dimensional point clouds<br>
 🔹Performed binary morphological processing on the images of the object to be placed and the environment of the collection box to determine the optimal placement<br>
