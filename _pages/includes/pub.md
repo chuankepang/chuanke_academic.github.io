@@ -22,12 +22,11 @@ we propose a precise-dexterous assembly framework based on closed-loop control, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/FunSR.png"><img src='image/FunSR.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Continuous Remote Sensing Image Super-Resolution based on Context Interaction in Implicit Function Space</b><br>
-<i>IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2023</i><br>
-<b>Keyan Chen</b>, Wenyuan Li, Sen Lei, Jianqi Chen, Xiaolong Jiang, Zhengxia Zou, and Zhenwei Shi<br>
-[<a href="https://arxiv.org/abs/2302.08046">Arxiv</a>] [<a href="https://github.com/KyanChen/FunSR">Github</a>] [<a href="https://kyanchen.github.io/FunSR/">Page</a>] [<a href="https://huggingface.co/spaces/KyanChen/FunSR">Demo</a>]<br>
+<b>High Precision Assembly with Dual-Arm Collaborative Robot Based on the Fusion of Vision and Force-Haptics</b><br>
+<i>International Conference on Space and Vehicle Control (ICSCACC) 2022</i><br>
+<b>Chuanke Pang</b>, and Rui Zhong<br>
 <div style="text-align: justify">
-We propose a new super-resolution framework based on context interaction in implicit function space for learning continuous representations of remote sensing images, called FunSR, which consists of three main components: a functional representor, a functional interactor, and a functional parser.
+In the context of the project "Development of Adaptive Control and Operating Modules for Precision Manipulation", we propose a ROS-based robot system for simulated on-orbit assembly.
 </div>
 </div>
 
