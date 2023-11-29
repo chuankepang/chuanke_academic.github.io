@@ -5,10 +5,10 @@
 <div class='paper-box-text' markdown="1">
 
 <b>Development of Adaptive Control and Operating Modules for Precision Manipulation</b><br>
-<i>China’s Technology Innovation 2030 - Major Project on Next Generation Artificial Intelligence</i><br>
-Ground experiment for high precision on-orbit assembly of space telescope using dual-arm robot.<br>
+<i><b>China’s Technology Innovation 2030</b> - Major Project on Next Generation Artificial Intelligence</i><br>
 Sept. 2021 – Present<br>
 <div style="text-align: justify">
+Ground experiment for high precision on-orbit assembly of space telescope using dual-arm robot.<br>
 • Designed a modular space telescope model for convenient and assembly and disassembly independently<br>
 • Built communications interfaces for the dual-arm robot system including depth cameras, adaptive grippers and force
 sensors<br>
