@@ -26,7 +26,7 @@ we propose a precise-dexterous assembly framework based on closed-loop control, 
 <i>International Conference on Space and Vehicle Control (ICSCACC) 2022</i><br>
 <b>Chuanke Pang</b>, and Rui Zhong<br>
 <div style="text-align: justify">
-In the context of the project "Development of Adaptive Control and Operating Modules for Precision Manipulation", we propose a ROS-based robot system for simulated on-orbit assembly.
+We propose a ROS-based robot system for simulated on-orbit assembly, in the context of the project "Development of Adaptive Control and Operating Modules for Precision Manipulation". 
 </div>
 </div>
 
@@ -34,15 +34,15 @@ In the context of the project "Development of Adaptive Control and Operating Mod
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/OvarNet.png"><img src='image/OvarNet.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Pose_Observer.png"><img src='image/Pose_Observer.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>OvarNet: Towards Open-vocabulary Object Attribute Recognition</b><br>
-<i>Computer Vision and Pattern Recognition Conference (CVPR), 2023</i><br>
-<b>Keyan Chen</b>, Xiaolong Jiang, Yao Hu, Xu Tang, Yan Gao, Jianqi Chen and Weidi Xie<br>
-[<a href="https://arxiv.org/abs/2301.09506">Arxiv</a>] [<a href="https://github.com/KyanChen/OvarNet">Github</a>] [<a href="https://kyanchen.github.io/OvarNet/">Page</a>]<br>
+<b>A New Potential Functions-Based Pose Observer Design Method for Cooperative Target</b><br>
+<i>Patent</i><br>
+Rui Zhong, Hangbiao Zhu, <b>Chuanke Pang</b>, Yinghong Jia, Jun Zhang, and Kai Wang<br>
+<!-- [<a href="https://arxiv.org/abs/2301.09506">Arxiv</a>] [<a href="https://github.com/KyanChen/OvarNet">Github</a>] [<a href="https://kyanchen.github.io/OvarNet/">Page</a>]<br> -->
 <div style="text-align: justify">
-We consider the problem of simultaneously detecting objects and inferring their visual attributes in an image, even for those with no manual annotations provided at the training stage, resembling an open-vocabulary scenario.
+We develop a cooperative target pose observer based on a new potential function, which is used for real-time position and attitude estimation of spatial cooperative targets.
 </div>
 </div>
 
