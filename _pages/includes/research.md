@@ -87,3 +87,52 @@ Oct. 2023 – Present<br>
 </div>
 
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Interface Conversion Module for Different Configuration Manipulated Targets</b><br>
+Sept. 2021 – Jun. 2023<br>
+<div style="text-align: start">
+<i>Hardware and algorithm design and deployment of upper-limb exoskeleton robots.</i><br>
+🔹Completed the mechanical structure design, EtherCAT communication bus and closed-loop servo control algorithm deployment for the upper-limb exoskeleton robots<br>
+🔹Designed and packaged the embedded motor drive module and computational control module of the dexterous hand<br>
+🔹Deployed and debugged gravity compensation, flexibility control and collision detection algorithms for the exoskeleton robot<br>
+</div>
+</div>
+
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Development and Numerical Verification of Adaptive Contact Modeling Software</b><br>
+Sept. 2021 – Sept. 2023<br>
+<div style="text-align: start">
+<i>Construction, validation and application of visual-haptic models for rigid and flexible material.</i><br>
+🔹Constructed deformation models of rigid and flexible material objects<br>
+🔹Established multidimensional intelligent perception models for collision detection, virtual agent contact force, and visual-haptic rendering in contact state<br>
+🔹Conducted a comparison with the open source software CHAI3D for visual-haptic modeling effect<br>
+🔹Participated in the design and fabrication of fingertip visual-haptic sensors for sensing tactile texture, contact force measurement, and high-precision 3D modeling<br>
+🔹Proposed a motion planning and precise visual-haptic manipulation method based on learning from demonstration using Force Dimension Omega.7 force feedback device<br>
+</div>
+</div>
+
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Design and Control of High-Performance Brushless Servo Motors</b><br>
+Sept. 2021 – Feb. 2022<br>
+<div style="text-align: start">
+<i>Design of motor mechanical structure and FOC (field-oriented control) driver.</i><br>
+🔹Designed the mechanical structure of high-performance brushless DC servo motor<br>
+🔹Completed the hardware design and algorithm deployment of the brushless DC motor FOC driver<br>
+</div>
+</div>
+
+</div>
