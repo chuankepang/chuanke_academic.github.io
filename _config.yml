@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Chuanke Pang (庞传科)"
-description              : "Postgraduate Student,\n\
-                            Beihang University"
+description              : "Postgraduate Student, Beihang University"
 repository               : "chuankepang/chuankepang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +21,7 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Chuanke Pang(庞传科)\n\
-                      *Under Modification"
+  name             : "Chuanke Pang(庞传科)"
   avatar           : "image/Profile_ChuankePang.png"
   bio              : "Beihang University"
   location         : "Beijing, China"
