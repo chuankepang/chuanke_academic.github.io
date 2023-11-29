@@ -9,10 +9,10 @@
 Sept. 2021 – Present<br>
 <div style="text-align: start">
 <i>Ground experiment for high precision on-orbit assembly of space telescope using dual-arm robot.</i><br>
-➖Designed a modular space telescope model for convenient and assembly and disassembly independently<br>
-➖Built communications interfaces for the dual-arm robot system including depth cameras, adaptive grippers, and force sensors<br>
-➖Proposed a multimodal information fusion approach for autonomous perception based on visual and tactile sensing<br>
-➖Completed a fully autonomous closed-loop assembly system incorporating functional modules such as pose estimation, trajectory planning and motion control<br>
+🔹 Designed a modular space telescope model for convenient and assembly and disassembly independently<br>
+🔹 Built communications interfaces for the dual-arm robot system including depth cameras, adaptive grippers, and force sensors<br>
+🔹 Proposed a multimodal information fusion approach for autonomous perception based on visual and tactile sensing<br>
+🔹 Completed a fully autonomous closed-loop assembly system incorporating functional modules such as pose estimation, trajectory planning and motion control<br>
 </div>
 </div>
 
@@ -60,9 +60,9 @@ Oct. 2021 – Oct. 2022<br>
 Sept. 2021 – Jan. 2023<br>
 <div style="text-align: start">
 <i>Database management software for intelligent recognition of spacecraft components.</i><br>
-🔹Constructed a spacecraft multi-dimensional model database with interactive environment<br>
-🔹Developed software for batch generation and automatic annotation of optical images<br>
-🔹Proposed a method for identifying spacecraft components based on semantic segmentation<br>
+🔹 Constructed a spacecraft multi-dimensional model database with interactive environment<br>
+🔹 Developed software for batch generation and automatic annotation of optical images<br>
+🔹 Proposed a method for identifying spacecraft components based on semantic segmentation<br>
 </div>
 </div>
 
@@ -76,13 +76,13 @@ Sept. 2021 – Jan. 2023<br>
 Oct. 2023 – Present<br>
 <div style="text-align: start">
 <i>Method for teleoperating collaborative robots using force feedback devices.</i><br>
-🔹Researched the method of remote control of collaborative robot with force feedback device<br>
-🔹Researched the method of remote control of dexterous hands with force feedback data gloves<br>
-🔹Designed and analyzed the mechanical structure of the dexterous hand<br>
-🔹Designed and packaged the embedded motor drive module and computational control module of the dexterous hand<br>
-🔹Completed the communication interface and the mapping of dexterous manipulation degrees of freedom between the data glove and dexterous hand<br>
-🔹Achieved virtual reality assembly of space telescope models and mixed reality blending displays<br>
-🔹Realized remote control of master devices and visualization of data information from slave devices<br>
+🔹 Researched the method of remote control of collaborative robot with force feedback device<br>
+🔹 Researched the method of remote control of dexterous hands with force feedback data gloves<br>
+🔹 Designed and analyzed the mechanical structure of the dexterous hand<br>
+🔹 Designed and packaged the embedded motor drive module and computational control module of the dexterous hand<br>
+🔹 Completed the communication interface and the mapping of dexterous manipulation degrees of freedom between the data glove and dexterous hand<br>
+🔹 Achieved virtual reality assembly of space telescope models and mixed reality blending displays<br>
+🔹 Realized remote control of master devices and visualization of data information from slave devices<br>
 </div>
 </div>
 
@@ -96,9 +96,9 @@ Oct. 2023 – Present<br>
 Sept. 2021 – Jun. 2023<br>
 <div style="text-align: start">
 <i>Hardware and algorithm design and deployment of upper-limb exoskeleton robots.</i><br>
-🔹Completed the mechanical structure design, EtherCAT communication bus and closed-loop servo control algorithm deployment for the upper-limb exoskeleton robots<br>
-🔹Designed and packaged the embedded motor drive module and computational control module of the dexterous hand<br>
-🔹Deployed and debugged gravity compensation, flexibility control and collision detection algorithms for the exoskeleton robot<br>
+🔹 Completed the mechanical structure design, EtherCAT communication bus and closed-loop servo control algorithm deployment for the upper-limb exoskeleton robots<br>
+🔹 Designed and packaged the embedded motor drive module and computational control module of the dexterous hand<br>
+🔹 Deployed and debugged gravity compensation, flexibility control and collision detection algorithms for the exoskeleton robot<br>
 </div>
 </div>
 
@@ -112,11 +112,11 @@ Sept. 2021 – Jun. 2023<br>
 Sept. 2021 – Sept. 2023<br>
 <div style="text-align: start">
 <i>Construction, validation and application of visual-haptic models for rigid and flexible material.</i><br>
-🔹Constructed deformation models of rigid and flexible material objects<br>
-🔹Established multidimensional intelligent perception models for collision detection, virtual agent contact force, and visual-haptic rendering in contact state<br>
-🔹Conducted a comparison with the open source software CHAI3D for visual-haptic modeling effect<br>
-🔹Participated in the design and fabrication of fingertip visual-haptic sensors for sensing tactile texture, contact force measurement, and high-precision 3D modeling<br>
-🔹Proposed a motion planning and precise visual-haptic manipulation method based on learning from demonstration using Force Dimension Omega.7 force feedback device<br>
+🔹 Constructed deformation models of rigid and flexible material objects<br>
+🔹 Established multidimensional intelligent perception models for collision detection, virtual agent contact force, and visual-haptic rendering in contact state<br>
+🔹 Conducted a comparison with the open source software CHAI3D for visual-haptic modeling effect<br>
+🔹 Participated in the design and fabrication of fingertip visual-haptic sensors for sensing tactile texture, contact force measurement, and high-precision 3D modeling<br>
+🔹 Proposed a motion planning and precise visual-haptic manipulation method based on learning from demonstration using Force Dimension Omega.7 force feedback device<br>
 </div>
 </div>
 
@@ -130,8 +130,8 @@ Sept. 2021 – Sept. 2023<br>
 Sept. 2021 – Feb. 2022<br>
 <div style="text-align: start">
 <i>Design of motor mechanical structure and FOC (field-oriented control) driver.</i><br>
-🔹Designed the mechanical structure of high-performance brushless DC servo motor<br>
-🔹Completed the hardware design and algorithm deployment of the brushless DC motor FOC driver<br>
+🔹 Designed the mechanical structure of high-performance brushless DC servo motor<br>
+🔹 Completed the hardware design and algorithm deployment of the brushless DC motor FOC driver<br>
 </div>
 </div>
 
