@@ -26,10 +26,10 @@ Sept. 2021 – Present<br>
 Sept. 2022 – Present<br>
 <div style="text-align: start">
 <i>Integration of natural language instructions into deep visuomotor policies for multi-step stacking tasks.</i><br>
-🔹Constructed a gazebo-based simulation environment for block stacking tasks<br>
-🔹Proposed a deep visuomotor policy that integrates multi-source information including natural language commands, RGB images, and depth images<br>
-🔹Proposed an attention mechanism focused on the current task in clutter environment<br>
-🔹Plan to deploy and test on physical robots with sim-to-real transfer<br>
+🔹 Constructed a gazebo-based simulation environment for block stacking tasks<br>
+🔹 Proposed a deep visuomotor policy that integrates multi-source information including natural language commands, RGB images, and depth images<br>
+🔹 Proposed an attention mechanism focused on the current task in clutter environment<br>
+🔹 Plan to deploy and test on physical robots with sim-to-real transfer<br>
 </div>
 </div>
 
@@ -43,10 +43,10 @@ Sept. 2022 – Present<br>
 Oct. 2021 – Oct. 2022<br>
 <div style="text-align: start">
 <i>Method for extraterrestrial sampling and packing based on deep reinforcement learning.</i><br>
-🔹Proposed an adaptive grasping method based on deep reinforcement learning for non-cooperative targets<br>
-🔹Deployed the grasp pose detection algorithm (GPD library) based on three-dimensional point clouds<br>
-🔹Performed binary morphological processing on the images of the object to be placed and the environment of the collection box to determine the optimal placement<br>
-🔹Proposed a pushing method based on deep reinforcement learning for objects placed in the collection box<br>
+🔹 Proposed an adaptive grasping method based on deep reinforcement learning for non-cooperative targets<br>
+🔹 Deployed the grasp pose detection algorithm (GPD library) based on three-dimensional point clouds<br>
+🔹 Performed binary morphological processing on the images of the object to be placed and the environment of the collection box to determine the optimal placement<br>
+🔹 Proposed a pushing method based on deep reinforcement learning for objects placed in the collection box<br>
 </div>
 </div>
 
