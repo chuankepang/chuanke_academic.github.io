@@ -19,7 +19,7 @@ we propose a precise-dexterous assembly framework based on closed-loop control, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/FunSR.png"><img src='image/FunSR.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Dual-Arm Collaborative Robot.png"><img src='image/Dual-Arm Collaborative Robot.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>High Precision Assembly with Dual-Arm Collaborative Robot Based on the Fusion of Vision and Force-Haptics</b><br>
