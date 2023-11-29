@@ -4,12 +4,17 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model</b><br>
-<i>Arxiv, 2023</i><br>
-<b>Keyan Chen</b>, Chenyang Liu, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, and Zhenwei Shi<br>
-[<a href="https://arxiv.org/abs/2306.16269">Arxiv</a>] [<a href="https://github.com/KyanChen/RSPrompter">Github</a>] [<a href="https://kyanchen.github.io/RSPrompter/">Page</a>] [<a href="https://huggingface.co/spaces/KyanChen/RSPrompter">Demo</a>]<br>
+<b>Development of Adaptive Control and Operating Modules for Precision Manipulation</b><br>
+<i>China’s Technology Innovation 2030 - Major Project on Next Generation Artificial Intelligence</i><br>
+Ground experiment for high precision on-orbit assembly of space telescope using dual-arm robot.<br>
+Sept. 2021 – Present<br>
 <div style="text-align: justify">
-We consider designing an automated instance segmentation approach for remote sensing images based on the SAM foundation model, incorporating semantic category information with prompt learning. 
+• Designed a modular space telescope model for convenient and assembly and disassembly independently<br>
+• Built communications interfaces for the dual-arm robot system including depth cameras, adaptive grippers and force
+sensors<br>
+• Proposed a multimodal information fusion approach for autonomous perception based on visual and tactile sensing<br>
+• Completed a fully autonomous closed-loop assembly system incorporating functional modules such as pose estimation,
+trajectory planning and motion control<br>
 </div>
 </div>
 
