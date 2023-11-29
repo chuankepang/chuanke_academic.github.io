@@ -9,10 +9,10 @@
 Sept. 2021 – Present<br>
 <div style="text-align: start">
 <i>Ground experiment for high precision on-orbit assembly of space telescope using dual-arm robot.</i><br>
-🔹Designed a modular space telescope model for convenient and assembly and disassembly independently<br>
-🔹Built communications interfaces for the dual-arm robot system including depth cameras, adaptive grippers, and force sensors<br>
-🔹Proposed a multimodal information fusion approach for autonomous perception based on visual and tactile sensing<br>
-🔹Completed a fully autonomous closed-loop assembly system incorporating functional modules such as pose estimation, trajectory planning and motion control<br>
+➖Designed a modular space telescope model for convenient and assembly and disassembly independently<br>
+➖Built communications interfaces for the dual-arm robot system including depth cameras, adaptive grippers, and force sensors<br>
+➖Proposed a multimodal information fusion approach for autonomous perception based on visual and tactile sensing<br>
+➖Completed a fully autonomous closed-loop assembly system incorporating functional modules such as pose estimation, trajectory planning and motion control<br>
 </div>
 </div>
 
