@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Chuanke Pang (庞传科)"
-description              : "Postgraduate Student, Beihang University"
+description              : "Postgraduate Student,\n\
+                            Beihang University"
 repository               : "chuankepang/chuankepang.github.io"
 google_scholar_stats_use_cdn : true
 
