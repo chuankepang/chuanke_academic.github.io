@@ -12,7 +12,7 @@ My full paper list can be found at my [<a href="https://scholar.google.com/citat
 <b>Chuanke Pang</b>, and Rui Zhong<br>
 [<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2369/1/012071/meta">Page</a>][<a href="https://github.com/chuankepang/dual_arm_collaborative_robot">Github</a>]<br>
 <div style="text-align: justify">
-we propose a precise-dexterous assembly framework based on closed-loop control, integrating the functional modules of position estimation, collision detection, trajectory planning, motion control, etc., for the self-designed reflecting space telescope model. 
+We propose a precise-dexterous assembly framework based on closed-loop control, integrating the functional modules of position estimation, collision detection, trajectory planning, motion control, etc., for the self-designed reflecting space telescope model. 
 </div>
 </div>
 
