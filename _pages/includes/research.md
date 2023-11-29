@@ -1,7 +1,7 @@
 
 # 🔭 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/on-orbit assembly.png"><img src='image/on-orbit assembly.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Development of Adaptive Control and Operating Modules for Precision Manipulation</b><br>
@@ -19,7 +19,7 @@ Sept. 2021 – Present<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Astronaut-Robot Collaborative Manipulation.png"><img src='image/Astronaut-Robot Collaborative Manipulation.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Astronaut-Robot Collaborative Manipulation Based on Machine Learning</b><br>
@@ -36,7 +36,7 @@ Sept. 2022 – Present<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Extraterrestrial Sampling and Packing.png"><img src='image/Extraterrestrial Sampling and Packing.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Intelligent Autonomous Exploration System for Celestial Bodies</b><br>
@@ -53,7 +53,7 @@ Oct. 2021 – Oct. 2022<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Intelligent Recognition.png"><img src='image/Intelligent Recognition.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Multidimensional Simulation and Enhancement for Space Objects and Scenes</b><br>
@@ -69,7 +69,7 @@ Sept. 2021 – Jan. 2023<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Tactile Force Feedback Teleoperation Device.png"><img src='image/Tactile Force Feedback Teleoperation Device.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Development of a Tactile Force Feedback Teleoperation Device</b><br>
@@ -89,7 +89,7 @@ Oct. 2023 – Present<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Interface Conversion Module.png"><img src='image/Interface Conversion Module.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Interface Conversion Module for Different Configuration Manipulated Targets</b><br>
@@ -105,7 +105,7 @@ Sept. 2021 – Jun. 2023<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/Adaptive Contact Modeling.png"><img src='image/Adaptive Contact Modeling.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Development and Numerical Verification of Adaptive Contact Modeling Software</b><br>
@@ -123,7 +123,7 @@ Sept. 2021 – Sept. 2023<br>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/RSPrompter.png"><img src='image/RSPrompter.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/FOC.png"><img src='image/FOC.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Design and Control of High-Performance Brushless Servo Motors</b><br>
