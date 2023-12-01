@@ -20,9 +20,9 @@
 - *2021* Second Prize "Academic Scholarship for Postgraduates", Beihang University
 - *2021* Second Prize "Freshman Scholarship for Postgraduates", Beihang University
 - *2021* "Outstanding Graduates" of Harbin Institute of Technology, Harbin Institute of Technology
-- *2010* "Excellent Student" of Harbin Institute of Technology, Harbin Institute of Technology
+- *2021* "Excellent Student" of Harbin Institute of Technology, Harbin Institute of Technology
 - *2020* First Prize "Academic Scholarship for Undergraduates", Harbin Institute of Technology
 - *2019* "Excellent Student" of Harbin Institute of Technology, Harbin Institute of Technology
-- *2029* Second Prize "Academic Scholarship for Undergraduates", Harbin Institute of Technology
+- *2019* Second Prize "Academic Scholarship for Undergraduates", Harbin Institute of Technology
 - *2018* "Excellent Student" of Harbin Institute of Technology, Harbin Institute of Technology
 - *2018* Second Prize "Academic Scholarship for Undergraduates", Harbin Institute of Technology
